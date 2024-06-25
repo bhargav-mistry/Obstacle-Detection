@@ -42,8 +42,5 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 ## License
 This project is licensed under the [MIT License](https://github.com/bhargav-mistry/Obstacle-Detection/blob/main/LICENSE).
 
-## Acknowledgements
-- Acknowledge any libraries, tutorials, or resources used.
-
 ## Contact
 - Reach out to project maintainers or contributors.
